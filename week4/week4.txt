@@ -1,4 +1,6 @@
-1. The url for my webpage is: http://ec2-54-244-154-48.us-west-2.compute.amazonaws.com/maxi.html# or http://54.244.154.48/maxi.html
+1. The url for my MapMoney_1 instance is: http://34.215.108.150/mapmoney.html
+   The url for my MapMoney_2 instance is: http://34.222.84.246/mapmoney.html
+   Another link that can be used is: http://ec2-34-222-84-246.us-west-2.compute.amazonaws.com/mapmoney.html 
 
 2.	-67.189.1.10 - - [22/Jul/2019:04:19:45 +0000] "GET /maxi.html HTTP/1.1" 200 1120 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
 	-67.189.1.10 - - [22/Jul/2019:04:22:01 +0000] "GET /maxi.html HTTP/1.1" 200 1123 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
