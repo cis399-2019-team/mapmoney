@@ -1,2 +1,7 @@
-1. I was able to login to Rico and Kylie's instances without any problems. I was able to successfully login to Jerry's instance. I was also able to get into Lucas and Devin's instances without any problems. I was able to login to Team Rocket successfully. I was able to login to defaultName successfully. I was able to login to Team1 successfully
-2. 
+1. I was able to login to Rico and Kylie's instances without any problems. 
+I was able to successfully login to Jerry's instance. 
+I was also able to get into Lucas and Devin's instances without any problems. 
+I was able to login to Team Rocket successfully. 
+I was able to login to defaultName successfully. 
+I was able to login to Team1 successfully
+ 
