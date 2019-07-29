@@ -4,4 +4,19 @@ I was also able to get into Lucas and Devin's instances without any problems.
 I was able to login to Team Rocket successfully. 
 I was able to login to defaultName successfully. 
 I was able to login to Team1 successfully
+
+2. Jul 28 21:48:19 ip-10-0-8-212 sshd[20536]: Accepted publickey for henzi from 71.59.224.154 port 54588 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
+Jul 28 21:59:41 ip-10-0-8-212 sshd[20689]: Accepted publickey for henzi from 71.59.224.154 port 54648 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
+Jul 28 22:56:04 ip-10-0-8-212 sshd[21028]: Accepted publickey for jerry from 128.223.222.50 port 53458 ssh2: RSA SHA256:hVYjNSedtZn0i9/0Yv3dchd/0j83wn/AEGJoqdixalA
+Jul 28 22:56:28 ip-10-0-8-212 sshd[21153]: Accepted publickey for jerry from 128.223.222.50 port 58278 ssh2: RSA SHA256:hVYjNSedtZn0i9/0Yv3dchd/0j83wn/AEGJoqdixalA
+Jul 28 22:58:29 ip-10-0-8-212 sshd[21257]: Accepted publickey for jerry from 128.223.222.50 port 53746 ssh2: RSA SHA256:hVYjNSedtZn0i9/0Yv3dchd/0j83wn/AEGJoqdixalA
+Jul 28 23:20:21 ip-10-0-8-212 sshd[21430]: Accepted publickey for devin from 24.22.126.100 port 51187 ssh2: RSA SHA256:xhFFrD0LwaB1Qx1CNUrCqG+p9y6sQ6rBAo7oTAw4how
+Jul 28 23:27:33 ip-10-0-8-212 sshd[21548]: Accepted publickey for lucas from 24.22.126.100 port 64461 ssh2: RSA SHA256:AdsuamlCn5ScolS13+B820dvBbgFP+inF72VikK62ZQ
+Jul 29 02:00:17 ip-10-0-8-212 sshd[22123]: Accepted publickey for james from 71.236.241.67 port 61055 ssh2: RSA SHA256:xoLqHmAN5f/zK4aRLzm05qfKlLXvXIQd7hQi3XJ6nAQ
+Jul 29 02:03:44 ip-10-0-8-212 sshd[22268]: Accepted publickey for austin from 63.155.157.138 port 55248 ssh2: RSA SHA256:YEzdQXzMAlUetkzmuWXXtjnq2ChIqLNPyB3eFzWmTUc
+Jul 29 05:56:49 ip-10-0-8-212 sshd[23434]: Accepted publickey for keir from 24.20.207.204 port 53436 ssh2: RSA SHA256:cyzN+W4Xj985ZuASHWBXoSW50OJkDDVGmKzJLJ+EsVk
+Jul 29 18:47:25 ip-10-0-8-212 sshd[26851]: Accepted publickey for rico from 216.106.151.72 port 56718 ssh2: RSA SHA256:QJ9qijOmZuR4dM1jh4FYNFvFLN2MmD6Nn0RxMffsKPY
+Jul 29 18:51:40 ip-10-0-8-212 sshd[27001]: Accepted publickey for kylie from 216.106.151.176 port 52262 ssh2: RSA SHA256:AtjsnTFCjw98twB87COn5iynnO7PgD1OR1ZlLHhqasQ
+Jul 29 18:55:11 ip-10-0-8-212 sshd[27114]: Accepted publickey for rico from 216.106.151.72 port 56766 ssh2: RSA SHA256:QJ9qijOmZuR4dM1jh4FYNFvFLN2MmD6Nn0RxMffsKPY
+Jul 29 19:28:25 ip-10-0-8-212 sshd[27297]: Accepted publickey for stevev from 128.223.222.50 port 1792 ssh2: RSA SHA256:sArGpkFm2XVlFKaFOfCxiktR01KpGnPkDB5YZ/42sEo
  
