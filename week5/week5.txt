@@ -5,7 +5,20 @@ I was able to login to Team Rocket successfully.
 I was able to login to defaultName successfully. 
 I was able to login to Team1 successfully
 
-2. Jul 28 21:48:19 ip-10-0-8-212 sshd[20536]: Accepted publickey for henzi from 71.59.224.154 port 54588 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
+2. 1001 stevev    0        0        1 Jul29/19:28 
+1002 rico      0        0        1 Jul29/18:55 
+1003 kylie     0        0        1       16:29 
+1004 james     0        0        1 Jul29/02:00 
+1005 owen      0        0        1 Jul28/00:51 
+1006 austin    0        0        1 Jul29/02:03 
+1007 henzi     0        0        1 Jul28/21:59 
+1008 keir      0        0        1 Jul29/05:56 
+1009 jerry     0        0        1 Jul28/22:58 
+1010 devin     0        0        1 Jul28/23:20 
+1011 lucas     0        0        1 Jul28/23:27 
+1012 manhim    0        0        1 Jul29/22:46 
+
+Jul 28 21:48:19 ip-10-0-8-212 sshd[20536]: Accepted publickey for henzi from 71.59.224.154 port 54588 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
 Jul 28 21:59:41 ip-10-0-8-212 sshd[20689]: Accepted publickey for henzi from 71.59.224.154 port 54648 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
 Jul 28 22:56:04 ip-10-0-8-212 sshd[21028]: Accepted publickey for jerry from 128.223.222.50 port 53458 ssh2: RSA SHA256:hVYjNSedtZn0i9/0Yv3dchd/0j83wn/AEGJoqdixalA
 Jul 28 22:56:28 ip-10-0-8-212 sshd[21153]: Accepted publickey for jerry from 128.223.222.50 port 58278 ssh2: RSA SHA256:hVYjNSedtZn0i9/0Yv3dchd/0j83wn/AEGJoqdixalA
