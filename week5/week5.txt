@@ -5,7 +5,11 @@ I was able to login to Team Rocket successfully.
 I was able to login to defaultName successfully. 
 I was able to login to Team1 successfully
 
-2. 1001 stevev    0        0        1 Jul29/19:28 
+2. sudo lslogins -u
+ UID USER   PROC PWD-LOCK PWD-DENY  LAST-LOGIN GECOS
+   0 root     79        0        1             root
+1000 ubuntu    6        0        1       19:10 Ubuntu
+1001 stevev    0        0        1 Jul29/19:28 
 1002 rico      0        0        1 Jul29/18:55 
 1003 kylie     0        0        1       16:29 
 1004 james     0        0        1 Jul29/02:00 
@@ -17,6 +21,7 @@ I was able to login to Team1 successfully
 1010 devin     0        0        1 Jul28/23:20 
 1011 lucas     0        0        1 Jul28/23:27 
 1012 manhim    0        0        1 Jul29/22:46 
+ 
 
 Jul 28 21:48:19 ip-10-0-8-212 sshd[20536]: Accepted publickey for henzi from 71.59.224.154 port 54588 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
 Jul 28 21:59:41 ip-10-0-8-212 sshd[20689]: Accepted publickey for henzi from 71.59.224.154 port 54648 ssh2: RSA SHA256:SH2JosXmZfWwrhoEyCIg+MM/dYKoyTc2pWWoKaqIPVU
