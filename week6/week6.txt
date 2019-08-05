@@ -1,0 +1,101 @@
+1. 
+Message Body
+You are receiving this email because your Amazon CloudWatch Alarm "awsec2-i-00fdd5952b5db9f09-CPU-Utilization" in the US West (Oregon) region has entered the ALARM state, because "Threshold Crossed: 1 out of the last 1 datapoints [34.43335185699738 (05/08/19 17:34:00)] was greater than or equal to the threshold (10.0) (minimum 1 datapoint for OK -> ALARM transition)." at "Monday 05 August, 2019 17:44:55 UTC".
+
+View this alarm in the AWS Management Console:
+https://urldefense.com/v3/__https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2*s=Alarms&alarm=awsec2-i-00fdd5952b5db9f09-CPU-Utilization__;Iw!5W9E9PnL_ac!SRDOemEcML9vMXTo6BBEaZ25xiFKrEcn2pKRFsahnpkzxdAnBXmsdMyH5KAl1LLp$
+
+Alarm Details:
+- Name:                       awsec2-i-00fdd5952b5db9f09-CPU-Utilization
+- Description:                Created from EC2 Console
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 1 out of the last 1 datapoints [34.43335185699738 (05/08/19 17:34:00)] was greater than or equal to the threshold (10.0) (minimum 1 datapoint for OK -> ALARM transition).
+- Timestamp:                  Monday 05 August, 2019 17:44:55 UTC
+- AWS Account:                006170570170
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanOrEqualToThreshold 10.0 for 300 seconds.
+
+Monitored Metric:
+- MetricNamespace:                     AWS/EC2
+- MetricName:                          CPUUtilization
+- Dimensions:                          [InstanceId = i-00fdd5952b5db9f09]
+- Period:                              300 seconds
+- Statistic:                           Average
+- Unit:                                not specified
+
+
+
+State Change Actions:
+- OK:
+- ALARM: [arn:aws:sns:us-west-2:006170570170:MapMoney]
+- INSUFFICIENT_DATA:
+
+-------------------------------------------------------------------------------------
+
+
+2. You are receiving this email because your Amazon CloudWatch Alarm "awsec2-i-00fdd5952b5db9f09-High-Network-In" in the US West (Oregon) region has entered the ALARM state, because "Threshold Crossed: 1 out of the last 1 datapoints [4143.6 (05/08/19 18:35:00)] was greater than the threshold (10.0) (minimum 1 datapoint for OK -> ALARM transition)." at "Monday 05 August, 2019 18:45:50 UTC".
+
+View this alarm in the AWS Management Console:
+https://urldefense.com/v3/__https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2*s=Alarms&alarm=awsec2-i-00fdd5952b5db9f09-High-Network-In__;Iw!5W9E9PnL_ac!XBevT-yf-rfhxZ3lvqq0-SlUvFRfwVRbWhTigShlyno-xL-tpi4kCg9_byHisFio$
+
+Alarm Details:
+- Name:                       awsec2-i-00fdd5952b5db9f09-High-Network-In
+- Description:                Created from EC2 Console
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 1 out of the last 1 datapoints [4143.6 (05/08/19 18:35:00)] was greater than the threshold (10.0) (minimum 1 datapoint for OK -> ALARM transition).
+- Timestamp:                  Monday 05 August, 2019 18:45:50 UTC
+- AWS Account:                006170570170
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 10.0 for 300 seconds.
+
+Monitored Metric:
+- MetricNamespace:                     AWS/EC2
+- MetricName:                          NetworkIn
+- Dimensions:                          [InstanceId = i-00fdd5952b5db9f09]
+- Period:                              300 seconds
+- Statistic:                           Average
+- Unit:                                not specified
+
+
+
+State Change Actions:
+- OK:
+- ALARM: [arn:aws:sns:us-west-2:006170570170:MapMoney]
+- INSUFFICIENT_DATA:
+
+
+--------------------------------------------------------------------------------
+
+
+3. You are receiving this email because your Amazon CloudWatch Alarm "awsec2-i-00fdd5952b5db9f09-High-Network-Out" in the US West (Oregon) region has entered the ALARM state, because "Threshold Crossed: 1 out of the last 1 datapoints [51765.2 (05/08/19 18:48:00)] was greater than or equal to the threshold (10.0) (minimum 1 datapoint for OK -> ALARM transition)." at "Monday 05 August, 2019 18:58:15 UTC".
+
+View this alarm in the AWS Management Console:
+https://urldefense.com/v3/__https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2*s=Alarms&alarm=awsec2-i-00fdd5952b5db9f09-High-Network-Out__;Iw!5W9E9PnL_ac!Sjrbvq35nw1W1EFVs67PCuAXuWnAa3OShNDvRSrW_8l0Cc68EGoq_UKN-vy25C0B$
+
+Alarm Details:
+- Name:                       awsec2-i-00fdd5952b5db9f09-High-Network-Out
+- Description:                Created from EC2 Console
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 1 out of the last 1 datapoints [51765.2 (05/08/19 18:48:00)] was greater than or equal to the threshold (10.0) (minimum 1 datapoint for OK -> ALARM transition).
+- Timestamp:                  Monday 05 August, 2019 18:58:15 UTC
+- AWS Account:                006170570170
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanOrEqualToThreshold 10.0 for 300 seconds.
+
+Monitored Metric:
+- MetricNamespace:                     AWS/EC2
+- MetricName:                          NetworkOut
+- Dimensions:                          [InstanceId = i-00fdd5952b5db9f09]
+- Period:                              300 seconds
+- Statistic:                           Average
+- Unit:                                not specified
+
+
+
+State Change Actions:
+- OK:
+- ALARM: [arn:aws:sns:us-west-2:006170570170:MapMoney]
+- INSUFFICIENT_DATA: 
